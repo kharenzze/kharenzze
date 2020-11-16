@@ -25,7 +25,7 @@ I'm currently working at [Appfluence](https://appfluence.com/) as a Full-Stack e
 
 [![kharenzze's github stats](https://github-readme-stats.vercel.app/api?username=kharenzze&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharenzze&layout=compact&theme=vue&hide=html,vhdl,verilog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharenzze&layout=compact&theme=vue&hide=html,vhdl,verilog&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to find me
 <p>
